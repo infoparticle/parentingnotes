@@ -1,7 +1,27 @@
-#+TITLE: ParentingWiki
-Created on : 
-Last Saved: "01 Jan 1970"
+#+TITLE: Notes on Parenting & Human Development
+Last Saved: "Nov 07 Sat, 2020"
 
-Welcome!
+*** 2020-11-07 Sat | Welcome Notes!
 
-*** Links
+1. By next month Jan 2021 my baby boy will one year old!
+2. I have no clue on parenting (as of now)!
+3. I don't want to leave this crucial topic for random unconscious forces of life.
+
+This repo records my explorations and learnings of this crucial topic. The following picture summarizes the approach.
+I don't want to go by hearsays or take things for granted, instead lets explore and learn!
+
+[[file:./.imgs/2020-11-07-211824.png]]
+
+**** Scope of this repo
+
+*Anything related to parenting and bringing up healthy _humane_ adults.*
+
+- General parenting notes
+- Exploration of kids developmental stages
+- Exploration of human developmental stages (Logical extension of the previous point!)
+- Nutrition, Medical Care, Developmental Psychology, Physical - Cognitive - Spiritual growth!
+
+
+*** Start Here
+
+- [[file:contents/by-author/bruce-d-perry/youtube-talks.org][Bruce D Perry: Social and Emotional Development in Early Childhood - Youtube Talk]]
