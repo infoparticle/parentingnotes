@@ -1,5 +1,10 @@
 #+TITLE: Parenting Wiki Index
-Last Saved: "Nov 07 Sat, 2020"
+Last Saved: "Nov 16 Mon, 2020"
 
 
-* Main
+This folder contains ideas grouped by authors.
+
+* TODO links for future exploration
+
+[[https://www.youtube.com/watch?v=yxAwOv7BPFY][Attachment and the Growth of Love - YouTube]]
+[[https://www.youtube.com/watch?v=C-mJnYmdVmQ][Russell Brand & Gabor Mate | Damaged Leaders Rule The World - YouTube]]

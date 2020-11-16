@@ -1,9 +1,9 @@
 #+TITLE: Notes on Parenting & Human Development
-Last Saved: "Nov 07 Sat, 2020"
+Last Saved: "Nov 27 Fri, 2020"
 
 *** 2020-11-07 Sat | Welcome Notes!
 
-1. By next month Jan 2021 my baby boy will one year old!
+1. By next Jan 2021 my baby boy will be one year old!
 2. I have no clue on parenting (as of now)!
 3. I don't want to leave this crucial topic for random unconscious forces of life.
 
@@ -25,3 +25,36 @@ I don't want to go by hearsays or take things for granted, instead lets explore 
 *** Start Here
 
 - [[file:contents/by-author/bruce-d-perry/youtube-talks.org][Bruce D Perry: Social and Emotional Development in Early Childhood - Youtube Talk]]
+
+- [[file:contents/by-author/roslyn-ross/roslyn-ross-talks.org][Rosyln Ross - dumping behaviorism and treating kids as respectable individuals]]
+
+
+***** Gabor Mate
+
+- [[file:contents/by-author/dr-gabor-mate/gabor-mate-talks.org][Dr. Gaber Mate - The greatest advice on parenting]]
+
+- [[file:contents/by-author/dr-gabor-mate/gabor-mate-how-emotions-affect-our-cognitive-functioning.org][Dr. Gabor Mate - How emotions affects our cognitive functioning]]
+
+
+***** General Topics
+
+- [[file:contents/general/2020-11-25-how-tv-affects-young-brains-of-children.org][How TV affects young brains]]
+
+***** Misc
+
+- [[file:contents/bookmarks-resources.org][Bookmarks and Resources]]
+
+*** About me
+
+#+BEGIN_SRC
+- Gopinath Sadasivam
+  - New father!
+  - Enjoys working in Linux terminal.
+    - Now that we have a child process forked!
+    - May be I can help the child process, from resource starvation, cognitive deadlocks,
+      handle most 'uncaught Exceptions' and avoid segfault in the child process :p
+    - While the world races to engineer a perfect AI, I am trying to help
+      reduce abundant NI (Natural Ignorance) in the family and kid.
+
+2020-11-25 Wed
+#+END_SRC

@@ -1,0 +1,29 @@
+#+TITLE: Bookmarks and Resources
+Last Saved: "Nov 26 Thu, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+- [[#youtube-links][Youtube links]]
+- [[#people-to-follow][People to follow]]
+
+* Youtube links
+
+
+#+HTML: <PRE>
+
+[[https://www.youtube.com/channel/UCSZtUUQNYuNReNGKO1DVPEA][tvo parents]] - *Youtube channel on parenting*
+Great channel with tons of experts on 'Developmental Psychology'.
+
+
+* People to follow
+
+There are tons of youtube videos instead of bookmarking all of them, it's easy
+to search by people to land on their lectures.
+
+| Who            | About them                                        |
+|----------------+---------------------------------------------------|
+| Gabor Mate     | Trauma, addiction, child development psychologist |
+| Gordon Neufeld | Developmental Psychologist                        |
+| Roslyn Ross    | Parenting based 'Objectivist Parenting'           |
+
+
+#+HTML: </PRE>

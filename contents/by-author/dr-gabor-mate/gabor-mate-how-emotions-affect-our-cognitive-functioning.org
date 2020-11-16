@@ -1,0 +1,144 @@
+#+TITLE: How emotions affect our cognitive functioning
+Last Saved: "Nov 22 Sun, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+- [[#my-takeaways][My Takeaways]]
+- [[#quoteshighlights][Quotes/Highlights]]
+- [[#talk-summary--how-emotions-affects-our-cognitive-functioning][Talk Summary | How emotions affects our cognitive functioning]]
+- [[#additional-anatomy-notes][Additional Anatomy Notes]]
+    - [[#cortex---functional-anatomy-from-wikipedia][Cortex - functional anatomy (from wikipedia)]]
+        - [[#ventral-view-underside-view][Ventral View (Underside view)]]
+    - [[#motor-and-sensory-regions-of-the-cerebral-cortex][Motor and Sensory Regions of the cerebral cortex]]
+        - [[#motor-and-sensory-regions---pic-2][motor and sensory regions - pic 2]]
+- [[#references][References]]
+
+* My Takeaways
+
+*If a kid doesn't see light for first 5 years, all its visual circuit development stops and it's blind for life even with perfect eyes, SO IS EMOTIONAL/ATTENTION/IMPULSE REGULATION/STRESS REGULATION circuits (oxytocin, serotonin, dopamine, endorphin circuits).*
+
+- Cognition stands on the edifice of emotions (in emotional brain)
+- All 9 key functions of higher brain (Prefrontal cortex) is supported by mindfulness/meditation and 7 of them are nurtured from parenting!
+  - Mindfulness/Meditation is important
+- Short term stress adaptation (eg: dissociation) for survival in development has huge future cost in learning, behavior, social relationships and longevity.
+- Stressed parenting is the problem (not really parents are bad)
+- Kids hyper-texting each other is not technological problem its attachment problem (they have no adults emotionally attached)!
+
+*Parents ROLE: To be a calm, non depressed, non stressful, emotionally present, attuned parent*
+
+The opposite of above is bad (impulsive, sad, emotionally absent, non caring, abusive traumatizing children).
+
+* Quotes/Highlights
+
+#+BEGIN_SRC
+at 23:00 mins:
+
+    The architecture of brain is constructed through an ongoing process
+    that begins before birth, continues into adulthood and establishes a
+    sturdy or fragile foundatation to ALL THE HEALTH, learning and
+    behaviour that follow.
+
+    The interaction of genes/experiences literally shapes the circuitary
+    of the developing the brain and is criticially enforced by the mutual
+    responsiveness of adult-child relationship particularly early
+    childhood years.
+
+-------------------------------------------------------------------------
+at 29:30 mins:
+
+    Adults get frustrated about kids behaviour and says "I have repeated
+    this 1000 times not to do something, still kid is repeating it"
+    well, who is having learning problem here!!!!
+
+    (i.e parents are repeating ineffective way of discipling and not
+    learning from their own in-your-face-ineffectiveness but tries to
+    make the kid to learn something without understanding how learning works.
+    hint: Learning starts when people are NOT emotionally shutdown)
+#+END_SRC
+
+* Talk Summary | How emotions affects our cognitive functioning
+[[https://www.youtube.com/watch?v=UYvxlkCGmbQ][Gabor Mate - How emotions affects our cognitive functioning - YouTube]]
+
+9 yr old Kid with asperger (socially awkward and have an all-absorbing interest in specific topics) got handcuffed by police
+thrown into isolation as punishment => WRONG, he needs opposite of this to handle his hyperactivity.
+
+
+*9 important functions of mammalian PRE-FRONTOL-CORTEX*
+
+1. Regulates body
+2. Regulates attuned communication with others
+3. Responsible for emotional balance
+4. Allows flexibility in response (eg: animals scream/attack back automatically on threat, humans can take a moment, take other point of view, understand others pain/expectation, consequences, principles etc. and then pick appropriate response)
+5. Providing insight
+6. Providing empathy
+7. Modulation of fear (prevents fear completely taking down the system in panic)
+8. Intuition and
+9. Morality
+
+In the above list 7 of them are nurtured by parenting! A mindfulness practice nurtures all the above 9!
+
+
+- PRENATAL STRESS - Stress during pregnancy precedes autism/learning problems/addiction problems later in life.
+- Dissociation/Tuning out - is survival mechanism.
+  - Shutting down emotionally as response for negative events STOPS learning and growth.
+  - Being vulnerable is part of learning (every animal/plant starts soft and vulnerable)
+  - Without learning, the developmental problems repeat => screwed for life with immature responses.
+- Detachment from threatening relationship (another stress response):
+  - kids detach from knowledgeable/mature adults and attaches to immature peers.
+  - Learning stops.
+
+*THREE MODES TO RESPOND TO ENVIRONMENT*
+
+#+BEGIN_SRC
+    | Fundamental - Reptilion mode     | Brain Stem             | we share with cold blooded animals   |
+    | (Good for fish)                  |                        | on threat, they can't spend more     |
+    |                                  |                        | energy, so they just freeze          |
+    | NO LEARNING                      |                        | Just float under water and conserve  |
+    | Life on autopilot.               |                        | oxygen!                              |
+    |----------------------------------+------------------------+--------------------------------------|
+    | Defensive - Mammalian mode       | Sympathetic            | Flight or Fight response, we share   |
+    | (Good for rat)                   | Nerve System           | with all mammals                     |
+    |                                  |                        |                                      |
+    | NO/CRUDE/BASIC LEARNING          | (Adrenaline, cortisol, | Needs more sugar and blood to brain! |
+    | Life LARGELY on autopilot.       | Dopamine, oxytocin,    |                                      |
+    | (Remembers pain/pleasure)        | Sertonin etc.)         |                                      |
+    |----------------------------------+------------------------+--------------------------------------|
+    | Growth -  Social Engagement mode |                        |                                      |
+    | (Good for humans)                |                        | when humans use fish/rat             |
+    |                                  |                        | responses, that's extremely          |
+    | TRUE LEARNING STARTS!            |                        | ineffective in human mode of         |
+    | Mindfulness, Decision making     |                        | survival (which builds on learning   |
+    | Virtues, Problem solving,        |                        | extrospection/introspection as core  |
+    | Insights, Compassion,            |                        | capability)                          |
+    | Wisdom etc.all happens here!     |                        |                                      |
+
+Relative to other primates, humans exhibit a great variety of singular cognitive abilities
+for language, mathematics, music, tool use, theory of mind, and self- consciousness.
+#+END_SRC
+
+
+
+*Parents ROLE: To be a calm, non depressed/stressful, emotionally present, attuned parent*
+
+
+* Additional Anatomy Notes
+*** Cortex - functional anatomy (from wikipedia)
+
+[[file:./.imgs/gabor-mate-how-emotions-affect-our-cognitive-functioning/2020-11-22-110203.png]]
+
+***** Ventral View (Underside view)
+
+[[file:./.imgs/gabor-mate-how-emotions-affect-our-cognitive-functioning/2020-11-22-110243.png]]
+
+*** Motor and Sensory Regions of the cerebral cortex
+
+[[file:./.imgs/gabor-mate-how-emotions-affect-our-cognitive-functioning/2020-11-22-110544.png]]
+
+
+***** motor and sensory regions - pic 2
+
+[[file:./.imgs/gabor-mate-how-emotions-affect-our-cognitive-functioning/2020-11-22-110939.png]]
+
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Neocortex][Neocortex - Wikipedia]]

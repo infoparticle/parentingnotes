@@ -1,0 +1,59 @@
+#+TITLE: Leonard Peikoff
+Last Saved: "Nov 23 Mon, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+- [[#my-takeaways][My Takeaways]]
+- [[#quotes][Quotes]]
+- [[#talk-2][Talk #2]]
+
+* My Takeaways
+
+[[https://www.youtube.com/watch?v=p4BJ-21EhY8][Why Johnny Can't Think]] - *Youtube talk*
+
+* Quotes
+#+BEGIN_SRC
+“If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be.”
+
+― Thomas Jefferson
+
+Education: Development of man's mind to be fit to deal with facts of reality.
+#+END_SRC
+
+
+- Anti conceptual approach (John Dewy)
+- Epistemology
+
+Perceptual level
+Principals are not present.
+Truth unknowable.
+
+Everything is opinion except facts.
+
+Merit Pay.
+
+"We have enough children who knows Fortran but not English!"
+
+
+Motivation
+Experience
+Techniques
+Masters of subject
+
+Reform:
+Newspeak.
+
+schooling = expert is being paid.
+method can't exist without content.
+
+THOUGHT can't be taught!
+Observerd context switching and adhominims.
+
+montasori
+
+* Talk #2
+
+:PROPERTIES:
+:Title: "Issues in Education" by Ayn Rand
+:Source: Youtube
+:URL: https://www.youtube.com/watch?v=2PKAATQmW1Y
+:END:

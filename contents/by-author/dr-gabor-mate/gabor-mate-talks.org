@@ -1,0 +1,165 @@
+#+TITLE: Gabor Mate on Parenting
+Last Saved: "Nov 22 Sun, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+- [[#my-takeaways][My Takeaways]]
+- [[#gabor-mates-talks][Gabor Mate's Talks]]
+  - [[#talk-1-how-not-screw-up-your-kids][Talk #1: How not screw up your kids]]
+  - [[#talk-2-consequences-of-stressed-parenting][Talk #2: Consequences of Stressed Parenting]]
+      - [[#strange-situation-experiment-from-mary-ainsworth-1969][Strange Situation Experiment from Mary Ainsworth, 1969]]
+- [[#foot-notes][Foot Notes]]
+    - [[#fn-1][fn-1]]
+
+* My Takeaways
+
+- The relationship with kid should be secure, stable, joyful and unconditional. Never authoritarian.
+- Attachment precedes any of parental roles (disciplining, guiding etc.)
+- When kids grow up and function from higher level of consciousness, life and happiness blossoms!
+  - i.e transcend reptilian, mammalian brain and uses higher executive functions (neocortex)
+  - kids need not be prisoners of past trauma, higher spiritual mode (self awareness, ego awareness, mindfulness etc.) of functioning resolves the past wounds.
+
+* Gabor Mate's Talks
+
+** Talk #1: How not screw up your kids
+
+[[https://www.youtube.com/watch?v=Rjk3mXLa1dw][How NOT TO SCREW UP Your Kids by BAD PARENTING I Dr Gabor Maté - YouTube]]
+
+*The power of parenting comes from the child's desire to belong to you!*
+
+- *Missing the first 3 years of kid implies two decades of painful remedial parenting.*
+- Child wants a sense of belonging to the parent and the presence of parents (they can feel the energy even before becoming verbally intelligent to engage).
+- Children should be disciples (love and follow parents) of parents and not fearful slaves of authoritarian boss!
+- Hunter gatherers had enough adults to fill the attachment void unlike current parents.
+- Screwing up relationship, puts the child triggers insecurity, defensive flight or fight mode and undermines the development :(
+
+If the 'attachment void' is not fulfilled by parents, peer groups become their model and mentors.
+
+Authoritarian parent become anti-child inadvertently.
+
+- Being authoritarian, teaches the kid, "the love is based on the condition you please me and you don't matter much and I am not available to you when you need me the most"
+  eg: Time outs
+
+*Signs that you have screwed up*
+- You don't feel rest when you are with kid, you don't know how to be with him and for him.
+
+#+BEGIN_SRC
+
+| Strict NOs                             | Comments                                  |
+|----------------------------------------+-------------------------------------------|
+| Withdrawing                            | This is the time they                     |
+| eg. let the baby cry out and calm down | need you the most.                        |
+| by itself.                             | When they are most                        |
+| Time outs.                             | uncomfortable, be there for them          |
+|----------------------------------------+-------------------------------------------|
+| Being a visiting dad :(                | Dads can do the  'mothering' too.         |
+| Moms get to be with the kid all day.   | It's about relationship you develop       |
+|                                        | nothing todo with gender/biological       |
+|                                        | roles.                                    |
+|----------------------------------------+-------------------------------------------|
+| Dads waiting for kids to grow older    | Too late to participate :(                |
+| and engage them intellectually later   | Kids pick up the energy of presence       |
+|                                        | even before they can process words        |
+|                                        | So be there!                              |
+|                                        | Real relationship depends on:             |
+|                                        | Act of being, state of being.             |
+|                                        | Kid should feel joyful to be in your      |
+|                                        | presence and you should express that      |
+|                                        | to the kid too!                           |
+|----------------------------------------+-------------------------------------------|
+| Losing the power of parenting          | wrong route to take and seeds             |
+| and doubling down by becoming          | oppositional defiant disorder             |
+| more authoritarian to compensate!      | and other conduct disorders.              |
+| *The power of parenting comes from*    |                                           |
+| *the child's desire to belong to you!* | Make them your disciples. Disciples loves |
+|                                        | you and wants to belong to you and follow |
+|                                        | you!                                      |
+|                                        |                                           |
+|                                        | Kids should know relationship is          |
+|                                        | - secure                                  |
+|                                        | - stable and reliable                     |
+|                                        |                                           |
+|----------------------------------------+-------------------------------------------|
+#+END_SRC
+
+** Talk #2: Consequences of Stressed Parenting
+
+[[https://www.youtube.com/watch?v=UGmADfU5HGU][Dr. Gabor Maté: Consequences of Stressed Parenting - YouTube]]
+
+More kids get anti psychotic medication with major health side effects
+and get arrested every year [see [[#fn-1][1]] ].
+
+Two wrong/partial models applied to work with kids today:
+- Behavior Training through threats, time-outs etc.
+- Chemical (Medical) model (solve through anti depressant/ADHD tablets etc.)
+
+Children acting out => Not problem in behavior but they express their frustration.
+
+Behavior model prescribes short term wrong solution (Time out, threats etc.)
+
+Eg: When couples ignore each other, it's a relationship problem and
+not that they are acting out and 'Time outs' will solve their problem.
+
+The correct model:
+- bio-psycho-social model
+  - stressed parents => more asthma!
+  - abused kids => 50% more cancer chance!
+  - arthritis => stress hormones
+  - when elderly husband falls ill (or passes away), wife becomes ill too.
+  - high cortisol => bad esp. in foster cares.
+  - Multiple Sclerosis => Stress
+
+3 modes
+
+#+BEGIN_SRC
+
+|   | Mode                   | Behavior                              |
+|---+------------------------+---------------------------------------|
+| 1 | Reptilian              | Freezes                               |
+|---+------------------------+---------------------------------------|
+| 2 | Mammalian              | Fight or Flight                       |
+|---+------------------------+---------------------------------------|
+| 3 | Social Engagement mode |                                       |
+|   | or Primate mode        | LEARNING happens                      |
+|   |                        | here not in Freeze/flight/fight modes |
+|   |                        | feels safety and comes out of         |
+|   |                        | defensive modes!                      |
+|---+------------------------+---------------------------------------|
+#+END_SRC
+
+#+BEGIN_SRC
+
+"If you are saying to a kid 1000 times not to do something, who is having
+the learning problem here!"
+- Gordon Neufeld
+#+END_SRC
+
+i.e parents haven't understood that kids don't learn by taking orders (learning starts in social engagement mode)
+
+**** Strange Situation Experiment from Mary Ainsworth, 1969
+
+Test #1. [[https://www.youtube.com/watch?v=QTsewNrHUHU][Strange situation test to asses the attachment styles]].
+
+When mom and kid plays, a stranger enters, mom leaves the room, stranger consoles the baby, mom renters (reunion).
+Kid is observed during separation, reunion and reaction towards stranger.
+
+[[https://www.youtube.com/watch?v=m_6rQk7jlrc][Strange Situation another youtube link]]
+
+The experiment measures:
+- proximity and contact seeking
+- contact maintaining
+- avoidance of proximity and contact
+- resistance to contact and comforting
+
+| Secure attachment (70%)     | distress on separation, avoid stranger unless mom is there, happy on reunion                     |
+| Ambivalent attachment (15%) | intense separation anxiety, significant fear of stranger, REJECT moms contact but approached mom |
+| Avoidant (15%)              | show no distress on separation, plays well with stranger and ignore mom on separation            |
+| Disorganized (<4%)          | inconsistent attachment behavior                                                                 |
+
+Biology of loss - relationship can heal.
+
+Good news things can heal in adulthood.
+
+* Foot Notes
+
+*** fn-1
+[[https://www.irishtimes.com/business/manufacturing/johnson-johnson-fined-8bn-over-marketing-of-anti-psychotic-drug-1.4044979][Johnson & Johnson fined 8 Billion $ for risperdal]] marketing and damages it caused.
