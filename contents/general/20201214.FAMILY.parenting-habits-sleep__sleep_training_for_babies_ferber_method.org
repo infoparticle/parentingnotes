@@ -1,0 +1,48 @@
+#+TITLE: Ferber Method - Sleep training
+Last Saved: "Dec 14 Mon, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+- [[#main-idea-of-ferber-method][Main Idea of Ferber Method.]]
+- [[#other-ideas][Other ideas]]
+- [[#ferber-method][ferber method]]
+- [[#chair-method][chair method]]
+- [[#wake-sleep][wake-sleep]]
+- [[#links][Links]]
+
+* Main Idea of Ferber Method.
+
+- It's okay for babies to cry and go to sleep but based on Ferber-Sleep Protocol.
+- Main Idea:
+  - After making sure the baby is fully fed, diapers changed, no bodily pain (fever/cough etc) are not there.
+  - Start with 2 mins allow baby to cry, self sooth and sleep, don't engage with it, leave it alone.
+  - Next extend this 2 mins to 5, 10, 15 etc.
+- *CAUTION* This method is not for < 3 months babies. Baby's age and temperament should be considered.
+
+* Other ideas
+
+[[https://www.youtube.com/watch?v=CI4mGIOkin0][Baby Sleep Training Methods EXPLAINED (Ferber Method, Cry It Out Method) - Yo...]]
+
+[[file:./.imgs/20201214-FAMILY-parenting-habits-sleep-sleep-training-for-babies-ferber-method/2020-12-14-001925.png]]
+
+
+[[file:./.imgs/20201214-FAMILY-parenting-habits-sleep-sleep-training-for-babies-ferber-method/2020-12-14-002041.png]]
+
+* ferber method
+
+[[file:./.imgs/20201214-FAMILY-parenting-habits-sleep-sleep-training-for-babies-ferber-method/2020-12-14-002136.png]]
+
+* chair method
+
+[[file:./.imgs/20201214-FAMILY-parenting-habits-sleep-sleep-training-for-babies-ferber-method/2020-12-14-002241.png]]
+
+* wake-sleep
+
+[[file:./.imgs/20201214-FAMILY-parenting-habits-sleep-sleep-training-for-babies-ferber-method/2020-12-14-002308.png]]
+
+
+
+* Links
+
+- [[https://www.youtube.com/watch?v=CR-77cDRHC0][Should I let my baby cry and for how long when putting him/her to bed? -Dr.Pa...]]
+- [[https://www.youtube.com/results?search_query=ferber+method+sleep+training][Youtube Search for ferber method]]
+- [[https://b-ok.asia/s/?q=Solve+Your+Child%27s+Sleep+Problems][Books on baby sleep]]

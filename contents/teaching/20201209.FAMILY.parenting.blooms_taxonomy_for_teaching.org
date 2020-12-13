@@ -1,0 +1,18 @@
+#+TITLE: Blooms Taxonomy
+Last Saved: "Dec 09 Wed, 2020"
+
+*** Table of contents                                                                   :TOC_7:
+    - [[#blooms-taxonomy][blooms-taxonomy]]
+
+*** blooms-taxonomy
+
+Most schools never cross level 1 and 2.
+
+1) Knowledge Transfer
+2) Comprehension
+3) Application
+4) Analysis
+5) Evaluation
+6) Creation
+
+[[file:./.imgs/20201209-FAMILY-parenting-blooms-taxonomy-for-teaching/2020-12-09-234530.png]]
